@@ -1,3 +1,6 @@
 # Binaries
 *.o   
 *.gb
+
+build/
+.vscode/
